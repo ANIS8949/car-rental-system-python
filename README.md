@@ -80,7 +80,6 @@ SERVER=FAIJAN\\MSSQL
 
 ### 🖥️ Main Menu
 
-![Main Menu]
 <img width="512" height="242" alt="Image" src="https://github.com/user-attachments/assets/f74788ed-99d2-4000-86b6-3513c92bc4c2" />
 
 ### 🚗 Add Car
