@@ -88,11 +88,23 @@ SERVER=FAIJAN\\MSSQL
 
 ### 👤 Add Customer
 
-![Add Customer](images/3ss.png)
+<img width="377" height="115" alt="Image" src="https://github.com/user-attachments/assets/d23740f7-2800-4183-9645-afbf2c14527e" />
 
 ### 📊 Available Cars
 
-![Available Cars](images/4ss.png)
+<img width="512" height="125" alt="Image" src="https://github.com/user-attachments/assets/f2da1833-0087-49e7-8b54-fb44beae1523" />
+
+### 📊 Display Customer Rentals
+<img width="540" height="90" alt="Image" src="https://github.com/user-attachments/assets/b25c14fc-3659-44d3-aad9-482eb67ff034" />
+
+### 📊 Rent Cars
+<img width="447" height="106" alt="Image" src="https://github.com/user-attachments/assets/a078a1ed-e116-438b-a425-6e6ae0eea8eb" />
+
+### 📊 Return Cars
+<img width="397" height="52" alt="Image" src="https://github.com/user-attachments/assets/7e1ecd8f-7829-472f-958b-445f3901b566" />
+
+### 📊 History
+<img width="962" height="180" alt="Image" src="https://github.com/user-attachments/assets/c3f08df5-5bdc-4d66-8664-49a9297c2194" />
 
 ---
 
