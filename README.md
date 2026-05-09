@@ -84,7 +84,7 @@ SERVER=FAIJAN\\MSSQL
 
 ### 🚗 Add Car
 
-![Add Car](images/2ss.jpg)
+<img width="382" height="142" alt="Image" src="https://github.com/user-attachments/assets/9f202ab3-1fe5-4f3f-8de4-3865026d9850" />
 
 ### 👤 Add Customer
 
